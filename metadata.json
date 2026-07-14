@@ -1,0 +1,7 @@
+{
+  "name": "AI Masterclass",
+  "description": "Futuristic AI masterclasses and YouTube course videos for AI development, video generation, image generation, and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
